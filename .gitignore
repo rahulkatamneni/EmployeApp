@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+out/
+.idea/workspace.xml
+sma/build/
+sma/.gradle/
+web/node_modules/
+.idea/libraries/
+.idea/modules/
+sma/conf/logs/
+sma/src/main/resources/static/
+web/build/
+.idea/artifacts/
+sma/src/main/resources/static1/
+conf/logs/sma.log.2017-12-07.0.gz
